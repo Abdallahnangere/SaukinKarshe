@@ -1,0 +1,1 @@
+// Deprecated. Next.js uses app/layout.tsx
